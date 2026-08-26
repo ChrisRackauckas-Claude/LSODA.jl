@@ -1,7 +1,7 @@
 name = "LSODA"
 uuid = "7f56f5a3-f504-529b-bc02-0b1fe5e64312"
-authors = ["Romain Veltz and Chris Rackauckas"]
 version = "1.1.0"
+authors = ["Romain Veltz and Chris Rackauckas"]
 
 [deps]
 Compat = "34da2185-b29b-5c13-b0c7-acf172513d20"
@@ -16,7 +16,7 @@ SciMLLogging = "a6db7da4-7206-11f0-1eab-35f2a5dbe1d1"
 [compat]
 Compat = "4"
 DiffEqBase = "6.217, 7"
-Parameters = "0.12"
+Parameters = "0.12, 0.13"
 SciMLBase = "1.80, 2, 3"
 SciMLLogging = "1.10.1, 2"
 julia = "1"
